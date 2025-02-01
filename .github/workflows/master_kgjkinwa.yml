@@ -26,7 +26,7 @@ jobs:
 
       - name: Build with Maven
         run: mvn clean install # No need for 'cd' as pom.xml is in the root directory
-        working-directory: D:\a\cuba 
+        working-directory: ./cuba
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
