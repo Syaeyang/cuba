@@ -8,7 +8,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>LogInServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/LogInServlet</url-pattern>
   </servlet-mapping>
   <display-name>KgJkinActivityBookingSystem</display-name>
   <welcome-file-list>
@@ -28,7 +28,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>LogInCrewServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/LogInCrewServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -38,7 +38,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>SignUpServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/SignUpServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -48,7 +48,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>SignUpCrewServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/SignUpCrewServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -58,7 +58,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>AddPackageServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/AddPackageServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -68,7 +68,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>AddActivityServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/AddActivityServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -78,7 +78,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>AddSlotServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/AddSlotServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -88,7 +88,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UpdateSlotServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/UpdateSlotServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -98,7 +98,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>DeleteSlotServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/DeleteSlotServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -108,7 +108,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UpdatePackageServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/UpdatePackageServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -118,7 +118,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UpdateActivityServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/UpdateActivityServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -128,7 +128,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UpdateProfileServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/UpdateProfileServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -138,7 +138,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UpdateProfileCrewServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/UpdateProfileCrewServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -148,7 +148,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>CreateBookingServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/CreateBookingServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -158,7 +158,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UpdateBookingServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/UpdateBookingServlet</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -168,7 +168,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UpdateBookingConfirmation</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/UpdateBookingConfirmation</url-pattern>
   </servlet-mapping>
   <servlet>
     <description></description>
@@ -178,6 +178,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>DeleteBookingServlet</servlet-name>
-    <url-pattern>/kgJkinWA.git</url-pattern>
+    <url-pattern>/DeleteBookingServlet</url-pattern>
   </servlet-mapping>
 </web-app>
