@@ -18,6 +18,13 @@
     <artifactId>mssql-jdbc</artifactId>
     <version>9.4.0.jre11</version>
 	</dependency>
+	  <dependency>
+    <groupId>jakarta.servlet</groupId>
+    <artifactId>jakarta.servlet-api</artifactId>
+    <version>5.0.0</version> <!-- Use the appropriate version -->
+    <scope>provided</scope> <!-- 'provided' means the server will provide it at runtime -->
+	</dependency>
+
 
     <!-- If using Jakarta Servlet API, use the following dependency instead -->
     <!--
