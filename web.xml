@@ -11,16 +11,7 @@
     <url-pattern>/LogInServlet</url-pattern>
   </servlet-mapping>
   <display-name>KgJkinActivityBookingSystem</display-name>
-  <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    <welcome-file>index.htm</welcome-file>
-    <welcome-file>index.jsp</welcome-file>
-    <welcome-file>default.html</welcome-file>
-    <welcome-file>default.htm</welcome-file>
-    <welcome-file>default.jsp</welcome-file>
-    <welcome-file>Home.jsp</welcome-file>
-  </welcome-file-list>
-  <servlet>
+<servlet>
     <description></description>
     <display-name>LogInCrewServlet</display-name>
     <servlet-name>LogInCrewServlet</servlet-name>
@@ -180,4 +171,7 @@
     <servlet-name>DeleteBookingServlet</servlet-name>
     <url-pattern>/DeleteBookingServlet</url-pattern>
   </servlet-mapping>
+   <welcome-file-list>
+    <welcome-file>Home.jsp</welcome-file>
+  </welcome-file-list>
 </web-app>
